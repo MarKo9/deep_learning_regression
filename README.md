@@ -6,11 +6,11 @@ Revenue prediction for the second largest drugstore chain in Germany with over 3
 
 ### The libraries used in the project
 
-import pandas as pd__
-import numpy as np__
-import matplotlib.pyplot as plt__
-import tensorflow as tf__
-from sklearn.preprocessing import StandardScaler__
+import pandas as pd<br />
+import numpy as np<br />
+import matplotlib.pyplot as plt<br />
+import tensorflow as tf<br />
+from sklearn.preprocessing import StandardScaler<br />
 import math__
 import timeit__
 import seaborn as sns__
