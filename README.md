@@ -6,20 +6,20 @@ Revenue prediction for the second largest drugstore chain in Germany with over 3
 
 ### The libraries used in the project
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import tensorflow as tf
-from sklearn.preprocessing import StandardScaler
-import math
-import timeit
-import seaborn as sns
-import matplotlib.patches as mpatches
-from collections import defaultdict
-from itertools import chain
-from sklearn import decomposition
-from sklearn import preprocessing
-The whole implementation was operated with Tensorflow as the main framework and in Spyder IDE (Anaconda).
+import pandas as pd__
+import numpy as np__
+import matplotlib.pyplot as plt__
+import tensorflow as tf__
+from sklearn.preprocessing import StandardScaler__
+import math__
+import timeit__
+import seaborn as sns__
+import matplotlib.patches as mpatches__
+from collections import defaultdict__
+from itertools import chain__
+from sklearn import decomposition__
+from sklearn import preprocessing__
+The whole implementation was operated with Tensorflow as the main framework and in Spyder IDE (Anaconda).__
 
 
 ### Files included:
