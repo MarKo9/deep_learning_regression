@@ -1,6 +1,6 @@
 # deep_learning_regression
 
-## Using deep learning (FFNN) to solve a sales prediction problem
+## Using Feedforward neural network to solve a Sales prediction problem
 
 Revenue prediction for the second largest drugstore chain in Germany with over 3,000 drug stores in 7 European countries. Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. Specifically the target is to predict 6 weeks of daily sales for 1,115 stores located across Germany. 
 
