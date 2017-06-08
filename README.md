@@ -24,6 +24,8 @@ The whole implementation was operated with Tensorflow as the main framework and 
 
 ### Files included:
 
+**FFNN_sales_prediction.pdf:** Project Report 
+
 **processing.py:** Includes the operations for processing the data, cleaning and feature engineering.<br />
 **processingNoOutliers.py:** Includes the operations for processing the data, cleaning and feature engineering plus the operation for removing the outliers based on the Tukey's method.<br />
 **model.py:** Is the file with the FFNN implementation. It takes as input data the csv file that the "processing.py" exports. It also includes the code for the visualizations on the model performance.<br />
